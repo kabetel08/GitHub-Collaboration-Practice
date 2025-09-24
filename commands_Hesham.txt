@@ -6,7 +6,7 @@ git pull
 git switch Hesham
 git merge main
 vim README.md
-git add README.md
+git add .
 git commit -m "Hesham's changes" 
 git push
 
