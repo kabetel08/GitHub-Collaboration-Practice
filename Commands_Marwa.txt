@@ -1,0 +1,12 @@
+cd Desktop/CSS/git
+git clone GitHub-Collaboration-Practice
+cd GitHub-Collaboration-Practice
+git checkout -b Marwa
+git checkout main
+git pull
+git checkout Marwa
+git merge main
+vim README.md
+git add README.md
+git commit -m “Marwa’s Changes"
+git push
