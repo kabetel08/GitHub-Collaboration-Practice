@@ -1,0 +1,11 @@
+cd GitHub-Collaboration-Practice
+git clone GitHub-Collaboration-Practice
+git checkout -b Hesham
+git switch main
+git pull
+git switch Hesham
+git merge main
+vim README.md
+git add README.md
+git commit -m "Hesham's changes" 
+git push
