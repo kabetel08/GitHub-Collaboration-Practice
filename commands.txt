@@ -1,0 +1,14 @@
+Commands
+
+cd Desktop/CSS/git
+git clone GitHub-Collaboration-Practice
+cd GitHub-Collaboration-Practice
+git checkout -b simran 
+git switch main
+git pull
+git switch simran 
+git merge main 
+vim README.md 
+git add .
+git commit -m "Simran's changes"
+git push 
