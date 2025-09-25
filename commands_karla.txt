@@ -1,0 +1,16 @@
+git clone https://github.com/kabetel08/GitHub-Collaboration-Practice.git
+git checkout -b karla
+
+git checkout main 
+vim README.md
+git add . 
+git commit -m "Adding intructions to README"
+git push origin main
+
+git pull orign main 
+git swith karla 
+git merge main 
+vim README.md
+git add .
+git commit -m "Adding commands + updated to README"
+git push 
